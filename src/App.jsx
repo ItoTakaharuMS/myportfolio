@@ -28,7 +28,7 @@ function App() {
           <div className='md:w-1/2 flex-grow' mb-16 lg:pr-24 md:pr-16 text-center md:text-left>
             <h1 className='text-3xl sm:text-6xl text-gray-900 font-medium mb-4'>NisshoCode <br />
               私のポートフォリオ</h1>
-            <p className='mb-8 leading-relaxed'>現在、三鷹の職業訓練で勉強しています。Python、SQL、デジタルテクノロジーの基礎を勉強してます。資格取得にも積極的に励み、ITパスポートと統計検定2級に合格しました！。自身が作ったものを公開してますのでぜひ見てください。</p>
+            <p className='mb-8 leading-relaxed'>こんにちは！ 現在、三鷹の職業訓練で勉強しています。Python、SQL、デジタルテクノロジーの基礎を勉強してます。資格取得にも積極的に励み、ITパスポートと統計検定2級に合格しました！。自身が作ったものを公開してますのでぜひ見てください。</p>
             <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-1g hover:bg-green-600 duration-300'>Contact Me</button>
           </div>
           <div className='md:w-1/2 lg:max-w-lg w-5/6'>
