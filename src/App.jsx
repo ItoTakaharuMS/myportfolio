@@ -89,7 +89,7 @@ function App() {
                       <path d="M13 13H21V21H13V13Z" fill="currentColor" />
                     </svg>
                   </div>
-                  <h2 className='text-gray-900 text-lg font-medium ml-2'>AI Finance</h2>
+                  <h2 className='text-gray-900 text-lg font-medium ml-2'>AI Finance technology</h2>
                 </div>
                 <div>
                   <p>AIを使った使った株やビットコインのデータの取得、分析、1か月後の予測アプリです。AIはscikit learnの回帰で予測してます。主にpythonでコーディングを行い、フレームワークはStreamlitを利用してます。株や暗号資産の売買にぜひお役立てください。</p>
